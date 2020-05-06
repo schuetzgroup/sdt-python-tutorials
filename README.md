@@ -14,5 +14,5 @@ evaluation of fluorescence microscopy data.
 List of notebooks
 -----------------
 
-- *Diffusion constants.ipynb*: Determination 2D diffusion constants by means of
-  single molecule tracking
+- *[Diffusion constants.ipynb](https://github.com/schuetzgroup/sdt-python-tutorials/blob/master/Diffusion%20constants.ipynb)*:
+  Determination 2D diffusion constants by means of single molecule tracking
