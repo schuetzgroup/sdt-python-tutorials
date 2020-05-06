@@ -4,10 +4,11 @@ SPDX-FileCopyrightText: 2020 Lukas Schrangl <lukas.schrangl@tuwien.ac.at>
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-`sdt-python` tutorials
-======================
+[sdt-python](https://github.com/schuetzgroup/sdt-python) tutorials
+==================================================================
 
-This repository contains Jupyter notebooks using the sdt-python package for
+This repository contains Jupyter notebooks using the 
+[sdt-python package](https://github.com/schuetzgroup/sdt-python) for
 evaluation of fluorescence microscopy data.
 
 
